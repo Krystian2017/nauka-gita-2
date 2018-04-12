@@ -1,4 +1,1 @@
-body {
-	background-color: red;
-	padding: 20px;
-}
+.test { display: -ms-flexbox; display: flex; -ms-flex-wrap: wrap; flex-wrap: wrap; }
